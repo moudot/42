@@ -1,0 +1,5 @@
+Credentials cache: API:1C89720C-0D34-4D40-8666-0846129251B3
+        Principal: moudot@42.FR
+
+  Issued                Expires               Principal
+Aug  3 15:12:55 2020  Aug 10 15:12:38 2020  krbtgt/42.FR@42.FR
